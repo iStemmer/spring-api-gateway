@@ -1,0 +1,213 @@
+[1;31m2022-04-05 10:23:56 [ERROR] ngFailureAnalysisReporter | 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.root' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.root
+    Value: NONE
+    Origin: class path resource [application.yml] - 3:11
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.NONE)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+[0;39m[34m2022-04-05 10:24:10 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 66661 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 10:24:10 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 10:24:14 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 4.736 seconds (JVM running for 5.201)
+[0;39m[34m2022-04-05 10:24:14 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 10:24:14 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 10:24:20 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T07:24:20.374176Z
+[0;39m[34m2022-04-05 10:24:20 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=67
+[0;39m[34m2022-04-05 10:24:23 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T07:24:23.755507Z
+[0;39m[34m2022-04-05 10:24:23 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=10
+[0;39m[34m2022-04-05 10:24:24 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T07:24:24.312393Z
+[0;39m[34m2022-04-05 10:24:24 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=8
+[0;39m[34m2022-04-05 10:24:24 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T07:24:24.637488Z
+[0;39m[34m2022-04-05 10:24:24 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=7
+[0;39m[34m2022-04-05 10:24:24 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T07:24:24.844076Z
+[0;39m[34m2022-04-05 10:24:24 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=7
+[0;39m[34m2022-04-05 15:14:18 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 69352 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 15:14:18 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 15:14:20 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 3.288 seconds (JVM running for 4.093)
+[0;39m[34m2022-04-05 15:14:20 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 15:14:20 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 0 ms
+[0;39m[34m2022-04-05 15:37:56 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 69718 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 15:37:56 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 15:37:57 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.872 seconds (JVM running for 2.327)
+[0;39m[34m2022-04-05 15:37:58 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 15:37:58 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 15:38:13 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T12:38:13.859198Z
+[0;39m[34m2022-04-05 15:38:18 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5021
+[0;39m[34m2022-04-05 15:38:18 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-05T12:38:18.889750Z
+[0;39m[34m2022-04-05 15:38:18 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=21
+[0;39m[34m2022-04-05 15:39:11 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T12:39:11.676988Z
+[0;39m[34m2022-04-05 15:39:16 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5007
+[0;39m[34m2022-04-05 15:39:16 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-05T12:39:16.685214Z
+[0;39m[34m2022-04-05 15:39:16 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=1
+[0;39m[34m2022-04-05 15:39:55 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 69733 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 15:39:55 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 15:39:56 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.767 seconds (JVM running for 2.447)
+[0;39m[34m2022-04-05 15:39:56 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 15:39:56 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 15:40:05 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T12:40:05.738903Z
+[0;39m[34m2022-04-05 15:40:10 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5084
+[0;39m[34m2022-04-05 15:40:12 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T12:40:12.668183Z
+[0;39m[34m2022-04-05 15:40:17 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5016
+[0;39m[34m2022-04-05 15:44:20 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 69805 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 15:44:20 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 15:44:21 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.863 seconds (JVM running for 2.577)
+[0;39m[34m2022-04-05 15:44:21 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 15:44:21 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 15:44:28 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T12:44:28.562768Z
+[0;39m[34m2022-04-05 15:44:33 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5025
+[0;39m[34m2022-04-05 15:44:33 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-05T12:44:33.597847Z
+[0;39m[34m2022-04-05 15:44:33 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=21
+[0;39m[34m2022-04-05 15:49:44 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 69857 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 15:49:44 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 15:49:45 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.777 seconds (JVM running for 2.446)
+[0;39m[34m2022-04-05 15:49:46 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 15:49:46 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 15:49:50 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T12:49:50.385159Z
+[0;39m[34m2022-04-05 15:49:55 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5052
+[0;39m[34m2022-04-05 15:50:39 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 69889 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 15:50:39 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 15:50:41 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.894 seconds (JVM running for 2.33)
+[0;39m[34m2022-04-05 15:50:41 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 15:50:41 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 15:50:45 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T12:50:45.264498Z
+[0;39m[34m2022-04-05 15:50:50 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5035
+[0;39m[34m2022-04-05 15:51:19 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 69899 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 15:51:19 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 15:51:21 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.697 seconds (JVM running for 2.123)
+[0;39m[34m2022-04-05 15:51:21 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 15:51:21 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 15:51:28 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T12:51:28.638049Z
+[0;39m[34m2022-04-05 15:51:33 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5027
+[0;39m[34m2022-04-05 15:51:33 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-05T12:51:33.676237Z
+[0;39m[34m2022-04-05 15:51:33 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=22
+[0;39m[34m2022-04-05 16:13:07 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 70133 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 16:13:07 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 16:13:09 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.977 seconds (JVM running for 2.451)
+[0;39m[34m2022-04-05 16:13:09 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 16:13:09 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 16:13:14 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T13:13:14.091710Z
+[0;39m[1;31m2022-04-05 16:13:19 [ERROR] c.h.c.GatewayController   | exception
+[0;39mfeign.RetryableException: Read timed out executing GET http://localhost:8081/balance
+	at feign.FeignException.errorExecuting(FeignException.java:268)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:129)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy87.getCurrentBalance(Unknown Source)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:23)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	... 58 common frames omitted
+[34m2022-04-05 16:13:19 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5036
+[0;39m[34m2022-04-05 16:13:19 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-05T13:13:19.147690Z
+[0;39m[34m2022-04-05 16:13:19 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=23
+[0;39m[34m2022-04-05 16:51:42 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 70597 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 16:51:42 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 16:51:44 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.137 seconds (JVM running for 2.692)
+[0;39m[34m2022-04-05 16:51:44 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 16:51:44 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 16:52:09 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T13:52:09.183694Z
+[0;39m[34m2022-04-05 16:52:10 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1036
+[0;39m[34m2022-04-05 16:52:53 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 70607 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 16:52:53 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 16:52:55 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.909 seconds (JVM running for 2.375)
+[0;39m[34m2022-04-05 16:52:55 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 16:52:55 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 16:53:16 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T13:53:16.480742Z
+[0;39m[34m2022-04-05 16:53:17 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1030
+[0;39m[34m2022-04-05 16:53:52 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 70620 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-05 16:53:52 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-05 16:53:53 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.738 seconds (JVM running for 2.489)
+[0;39m[34m2022-04-05 16:53:54 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-05 16:53:54 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-05 16:53:59 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T13:53:59.431688Z
+[0;39m[34m2022-04-05 16:54:04 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5034
+[0;39m[34m2022-04-05 17:14:37 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-05T14:14:37.368696Z
+[0;39m[34m2022-04-05 17:14:42 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5009
+[0;39m

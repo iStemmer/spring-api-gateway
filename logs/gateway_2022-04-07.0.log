@@ -1,0 +1,1286 @@
+[34m2022-04-07 17:02:14 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 86061 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 17:02:14 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 17:02:16 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.534 seconds (JVM running for 3.858)
+[0;39m[34m2022-04-07 17:02:16 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 17:02:16 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 17:02:29 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T14:02:29.175711Z
+[0;39m[34m2022-04-07 17:02:34 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5046
+[0;39m[34m2022-04-07 17:02:57 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 86082 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 17:02:57 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 17:02:59 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.178 seconds (JVM running for 2.703)
+[0;39m[34m2022-04-07 17:02:59 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 17:02:59 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 17:06:02 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T14:06:02.593581Z
+[0;39m[34m2022-04-07 17:06:07 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5032
+[0;39m[34m2022-04-07 17:06:07 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T14:06:07.647138Z
+[0;39m[34m2022-04-07 17:06:07 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=28
+[0;39m[34m2022-04-07 17:06:49 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 86134 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 17:06:49 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 17:06:50 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.276 seconds (JVM running for 2.824)
+[0;39m[34m2022-04-07 17:06:51 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 17:06:51 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 17:06:55 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T14:06:55.139068Z
+[0;39m[34m2022-04-07 17:07:00 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5027
+[0;39m[34m2022-04-07 17:07:00 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T14:07:00.184112Z
+[0;39m[34m2022-04-07 17:07:00 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=22
+[0;39m[34m2022-04-07 17:08:45 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 86205 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 17:08:45 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 17:08:47 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.128 seconds (JVM running for 3.015)
+[0;39m[34m2022-04-07 17:08:47 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 17:08:47 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 17:08:52 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T14:08:52.279914Z
+[0;39m[34m2022-04-07 17:08:57 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5035
+[0;39m[34m2022-04-07 17:08:57 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T14:08:57.334608Z
+[0;39m[34m2022-04-07 17:08:57 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=25
+[0;39m[34m2022-04-07 17:18:25 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 86398 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 17:18:25 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 17:18:27 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.495 seconds (JVM running for 3.079)
+[0;39m[34m2022-04-07 17:18:27 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 17:18:27 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 17:18:58 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T14:18:58.565211Z
+[0;39m[34m2022-04-07 17:19:03 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5037
+[0;39m[34m2022-04-07 17:19:03 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T14:19:03.621037Z
+[0;39m[34m2022-04-07 17:19:03 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=23
+[0;39m[34m2022-04-07 17:20:40 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T14:20:40.016554Z
+[0;39m[34m2022-04-07 17:20:45 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5005
+[0;39m[34m2022-04-07 17:20:45 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T14:20:45.023778Z
+[0;39m[34m2022-04-07 17:20:45 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=2
+[0;39m[34m2022-04-07 17:41:31 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 86815 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 17:41:31 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 17:41:33 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.05 seconds (JVM running for 2.578)
+[0;39m[34m2022-04-07 17:41:33 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 17:41:33 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 17:41:40 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T14:41:40.379363Z
+[0;39m[34m2022-04-07 17:41:45 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5032
+[0;39m[34m2022-04-07 17:41:45 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T14:41:45.431888Z
+[0;39m[34m2022-04-07 17:41:45 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=23
+[0;39m[34m2022-04-07 17:59:32 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87147 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 17:59:32 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 17:59:34 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.081 seconds (JVM running for 2.589)
+[0;39m[34m2022-04-07 17:59:34 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 17:59:34 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 17:59:46 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T14:59:46.613333Z
+[0;39m[34m2022-04-07 17:59:51 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=5027
+[0;39m[34m2022-04-07 17:59:51 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T14:59:51.662701Z
+[0;39m[34m2022-04-07 17:59:51 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=21
+[0;39m[34m2022-04-07 18:01:48 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87172 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:01:48 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:01:49 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.08 seconds (JVM running for 2.931)
+[0;39m[34m2022-04-07 18:01:49 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:01:49 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 2 ms
+[0;39m[34m2022-04-07 18:03:10 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87197 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:03:10 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:03:24 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 14.032 seconds (JVM running for 14.73)
+[0;39m[34m2022-04-07 18:03:24 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:03:24 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:04:21 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87212 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:04:21 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:04:22 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.928 seconds (JVM running for 2.402)
+[0;39m[34m2022-04-07 18:04:23 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:04:23 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:07:58 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87248 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:07:58 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:08:00 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.074 seconds (JVM running for 2.588)
+[0;39m[34m2022-04-07 18:08:00 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:08:00 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:12:18 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87311 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:12:18 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:12:20 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.135 seconds (JVM running for 2.942)
+[0;39m[34m2022-04-07 18:12:20 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:12:20 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:13:17 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87323 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:13:17 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:13:19 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.264 seconds (JVM running for 3.314)
+[0;39m[34m2022-04-07 18:13:19 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:13:19 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:14:07 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87337 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:14:07 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:14:08 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.846 seconds (JVM running for 2.49)
+[0;39m[34m2022-04-07 18:14:09 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:14:09 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:14:45 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87344 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:14:45 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:14:47 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.884 seconds (JVM running for 2.384)
+[0;39m[34m2022-04-07 18:14:47 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:14:47 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:16:09 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87362 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:16:09 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:16:11 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.063 seconds (JVM running for 2.934)
+[0;39m[34m2022-04-07 18:16:11 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:16:11 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:21:31 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87428 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:21:31 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:21:33 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.034 seconds (JVM running for 2.705)
+[0;39m[34m2022-04-07 18:21:33 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:21:33 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:21:53 [INFO ] c.h.c.FeignConfiguration  | GET null
+[0;39m[34m2022-04-07 18:23:25 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87454 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:23:25 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:23:27 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.015 seconds (JVM running for 2.692)
+[0;39m[34m2022-04-07 18:23:27 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:23:27 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:23:30 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:26:13 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87485 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:26:13 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:26:14 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.026 seconds (JVM running for 2.717)
+[0;39m[34m2022-04-07 18:26:14 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:26:14 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:26:38 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:26:48 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:26:49 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:26:51 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:26:52 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:31:32 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87551 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:31:32 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:31:33 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.987 seconds (JVM running for 2.844)
+[0;39m[34m2022-04-07 18:31:34 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:31:34 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:31:42 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[1;31m2022-04-07 18:32:38 [ERROR] ngFailureAnalysisReporter | 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.root' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.root
+    Value: FULL
+    Origin: class path resource [application.yml] - 3:11
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel.FULL)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+[0;39m[34m2022-04-07 18:32:56 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87578 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:32:56 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:32:58 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.978 seconds (JVM running for 2.514)
+[0;39m[34m2022-04-07 18:32:58 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:32:58 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:33:02 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:35:34 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87604 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:35:34 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:35:36 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.104 seconds (JVM running for 2.677)
+[0;39m[34m2022-04-07 18:35:36 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:35:36 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:35:42 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:35:43 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:41:22 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87686 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:41:22 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:41:24 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.035 seconds (JVM running for 2.516)
+[0;39m[34m2022-04-07 18:41:24 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:41:24 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:41:29 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:42:10 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87692 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 18:42:10 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 18:42:12 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.941 seconds (JVM running for 2.645)
+[0;39m[34m2022-04-07 18:42:12 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 18:42:12 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 18:42:17 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T15:42:17.279637Z
+[0;39m[34m2022-04-07 18:42:17 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:42:18 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1024
+[0;39m[34m2022-04-07 18:42:18 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T15:42:18.315337Z
+[0;39m[34m2022-04-07 18:42:18 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=22
+[0;39m[34m2022-04-07 18:43:19 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T15:43:19.257879Z
+[0;39m[34m2022-04-07 18:43:19 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 18:43:20 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1009
+[0;39m[34m2022-04-07 18:43:20 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T15:43:20.267268Z
+[0;39m[34m2022-04-07 18:43:20 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=1
+[0;39m[34m2022-04-07 19:02:02 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87893 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:02:02 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:02:13 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87895 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:02:13 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:02:27 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87898 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:02:27 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:02:29 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.14 seconds (JVM running for 2.702)
+[0;39m[34m2022-04-07 19:02:29 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 19:02:29 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 19:02:34 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T16:02:34.174579Z
+[0;39m[34m2022-04-07 19:02:34 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 19:02:35 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1033
+[0;39m[34m2022-04-07 19:02:35 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T16:02:35.226424Z
+[0;39m[34m2022-04-07 19:02:35 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=23
+[0;39m[34m2022-04-07 19:03:00 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87917 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:03:00 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:03:02 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.031 seconds (JVM running for 3.039)
+[0;39m[34m2022-04-07 19:03:02 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 19:03:02 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 19:03:05 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T16:03:05.395083Z
+[0;39m[34m2022-04-07 19:03:06 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1029
+[0;39m[34m2022-04-07 19:03:06 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T16:03:06.435041Z
+[0;39m[34m2022-04-07 19:03:06 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=22
+[0;39m[34m2022-04-07 19:03:37 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87921 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:03:37 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:03:51 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87925 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:03:51 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:04:06 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87933 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:04:06 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:04:08 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.04 seconds (JVM running for 2.925)
+[0;39m[34m2022-04-07 19:04:08 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 19:04:08 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 19:04:48 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 87941 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:04:48 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:04:49 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.895 seconds (JVM running for 2.706)
+[0;39m[34m2022-04-07 19:04:50 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 19:04:50 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 19:11:33 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88058 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:11:33 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:11:35 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.154 seconds (JVM running for 2.783)
+[0;39m[34m2022-04-07 19:11:35 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 19:11:35 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 2 ms
+[0;39m[34m2022-04-07 19:12:17 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88069 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:12:17 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:12:19 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.875 seconds (JVM running for 2.514)
+[0;39m[34m2022-04-07 19:12:19 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 19:12:19 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 2 ms
+[0;39m[34m2022-04-07 19:12:24 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 19:13:26 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88091 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:13:26 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:13:28 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.897 seconds (JVM running for 3.024)
+[0;39m[34m2022-04-07 19:13:28 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 19:13:28 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 19:13:31 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 19:13:34 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 19:13:35 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 19:13:36 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 19:14:49 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88102 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 19:14:49 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 19:14:51 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.003 seconds (JVM running for 2.494)
+[0;39m[34m2022-04-07 19:14:51 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 19:14:51 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 19:14:54 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 19:14:55 [INFO ] c.h.s.GatewayServiceFeign | exception
+[0;39mfeign.RetryableException: Read timed out executing GET http://localhost:8081/balance
+	at feign.FeignException.errorExecuting(FeignException.java:268)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:129)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy88.getCurrentBalance(Unknown Source)
+	at com.hercules.service.GatewayServiceFeign.getCurrentBalanceA(GatewayServiceFeign.java:21)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	... 59 common frames omitted
+[34m2022-04-07 21:06:07 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88423 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:06:07 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:06:10 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 4.994 seconds (JVM running for 5.672)
+[0;39m[34m2022-04-07 21:06:11 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:06:11 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 21:06:14 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 21:06:20 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 21:45:21 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88725 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:45:21 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:45:24 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 4.981 seconds (JVM running for 5.85)
+[0;39m[34m2022-04-07 21:45:25 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:45:25 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 21:45:39 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 21:45:40 [INFO ] c.h.c.FeignConfiguration  | GET http://localhost:8081/balance null
+[0;39m[34m2022-04-07 21:45:42 [INFO ] c.h.c.FeignConfiguration  | GET http://localhost:8081/balance null
+[0;39m[34m2022-04-07 21:45:43 [INFO ] c.h.c.FeignConfiguration  | GET http://localhost:8081/balance null
+[0;39m[34m2022-04-07 21:45:45 [INFO ] c.h.c.FeignConfiguration  | GET http://localhost:8081/balance null
+[0;39m[34m2022-04-07 21:45:56 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 21:45:57 [INFO ] c.h.c.FeignConfiguration  | GET http://localhost:8081/balance null
+[0;39m[34m2022-04-07 21:45:58 [INFO ] c.h.c.FeignConfiguration  | GET http://localhost:8081/balance null
+[0;39m[34m2022-04-07 21:45:59 [INFO ] c.h.c.FeignConfiguration  | GET http://localhost:8081/balance null
+[0;39m[34m2022-04-07 21:46:01 [INFO ] c.h.c.FeignConfiguration  | GET http://localhost:8081/balance null
+[0;39m[34m2022-04-07 21:46:24 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88740 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:46:24 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:46:28 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 4.869 seconds (JVM running for 5.538)
+[0;39m[34m2022-04-07 21:46:28 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:46:28 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 21:46:32 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 21:46:38 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 21:46:40 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 21:46:42 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 21:47:29 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88750 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:47:29 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:48:24 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88764 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:48:24 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:48:38 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-07 21:48:38 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88769 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:48:38 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:48:39 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=6bd3bb61-a3c5-39fd-8ee1-697b7fe144e1
+[0;39m[34m2022-04-07 21:48:39 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-07 21:48:39 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 21:48:39 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-07 21:48:39 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-07 21:48:39 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-07 21:48:39 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 831 ms
+[0;39m[31m2022-04-07 21:48:39 [WARN ] nConfigApplicationContext | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'feignBuilder' defined in com.hercules.configuration.FeignConfiguration: Unsatisfied dependency expressed through method 'feignBuilder' parameter 1; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'feign.codec.ErrorDecoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+[0;39m[31m2022-04-07 21:48:39 [WARN ] bServerApplicationContext | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'gatewayController' defined in file [/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes/com/hercules/controller/GatewayController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'gatewayServiceFeign' defined in file [/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes/com/hercules/service/GatewayServiceFeign.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'feignBuilder' defined in com.hercules.configuration.FeignConfiguration: Unsatisfied dependency expressed through method 'feignBuilder' parameter 1; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'feign.codec.ErrorDecoder' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+[0;39m[34m2022-04-07 21:48:39 [INFO ] o.a.c.c.StandardService   | Stopping service [Tomcat]
+[0;39m[34m2022-04-07 21:48:39 [INFO ] tionReportLoggingListener | 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[0;39m[1;31m2022-04-07 21:48:39 [ERROR] ngFailureAnalysisReporter | 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 1 of method feignBuilder in com.hercules.configuration.FeignConfiguration required a bean of type 'feign.codec.ErrorDecoder' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'feign.codec.ErrorDecoder' in your configuration.
+
+[0;39m[34m2022-04-07 21:49:12 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-07 21:49:12 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88778 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:49:12 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:49:13 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=d4cea1f8-8db4-37b4-aa03-7ae6a5d228fa
+[0;39m[34m2022-04-07 21:49:13 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-07 21:49:13 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 21:49:13 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-07 21:49:13 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-07 21:49:13 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-07 21:49:13 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 854 ms
+[0;39m[34m2022-04-07 21:49:15 [INFO ] o.s.c.c.util.InetUtils    | Cannot determine local hostname
+[0;39m[34m2022-04-07 21:49:15 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-07 21:49:15 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 21:49:15 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-07 21:49:16 [INFO ] o.s.c.c.util.InetUtils    | Cannot determine local hostname
+[0;39m[34m2022-04-07 21:49:16 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 4.89 seconds (JVM running for 5.395)
+[0;39m[34m2022-04-07 21:49:16 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:49:16 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:49:16 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 2 ms
+[0;39m[34m2022-04-07 21:49:24 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[1;31m2022-04-07 21:49:25 [ERROR] [.[.[.[dispatcherServlet] | Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.reflect.UndeclaredThrowableException] with root cause
+[0;39mjava.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy88.getCurrentBalance(Unknown Source)
+	at com.hercules.service.GatewayServiceFeign.getCurrentBalanceA(GatewayServiceFeign.java:21)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[34m2022-04-07 21:50:45 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-07 21:50:45 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88795 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:50:45 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:50:46 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=d4cea1f8-8db4-37b4-aa03-7ae6a5d228fa
+[0;39m[34m2022-04-07 21:50:46 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-07 21:50:46 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 21:50:46 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-07 21:50:46 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-07 21:50:46 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-07 21:50:46 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 909 ms
+[0;39m[34m2022-04-07 21:50:47 [INFO ] o.s.c.c.util.InetUtils    | Cannot determine local hostname
+[0;39m[34m2022-04-07 21:50:47 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-07 21:50:48 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 21:50:48 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-07 21:50:49 [INFO ] o.s.c.c.util.InetUtils    | Cannot determine local hostname
+[0;39m[34m2022-04-07 21:50:49 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 4.989 seconds (JVM running for 5.613)
+[0;39m[34m2022-04-07 21:50:49 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:50:49 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:50:49 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 21:50:52 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[1;31m2022-04-07 21:50:53 [ERROR] [.[.[.[dispatcherServlet] | Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.RetryableException: Read timed out executing GET http://localhost:8081/balance] with root cause
+[0;39mjava.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy88.getCurrentBalance(Unknown Source)
+	at com.hercules.service.GatewayServiceFeign.getCurrentBalanceA(GatewayServiceFeign.java:21)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[34m2022-04-07 21:54:04 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-07 21:54:04 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88849 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:54:04 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:54:05 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=cb6a2246-19ca-3c21-b25f-e73f6c3fccce
+[0;39m[34m2022-04-07 21:54:05 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-07 21:54:05 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 21:54:05 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-07 21:54:05 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-07 21:54:05 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-07 21:54:05 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 917 ms
+[0;39m[34m2022-04-07 21:54:06 [INFO ] o.s.c.c.util.InetUtils    | Cannot determine local hostname
+[0;39m[34m2022-04-07 21:54:07 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-07 21:54:07 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 21:54:07 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-07 21:54:08 [INFO ] o.s.c.c.util.InetUtils    | Cannot determine local hostname
+[0;39m[34m2022-04-07 21:54:08 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 4.97 seconds (JVM running for 5.83)
+[0;39m[34m2022-04-07 21:54:08 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:54:08 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:54:08 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 21:54:09 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T18:54:09.492709Z
+[0;39m[34m2022-04-07 21:54:09 [INFO ] c.h.c.FeignConfiguration  | GET /balance null
+[0;39m[34m2022-04-07 21:54:10 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1029
+[0;39m[1;31m2022-04-07 21:54:10 [ERROR] [.[.[.[dispatcherServlet] | Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.RetryableException: Read timed out executing GET http://localhost:8081/balance] with root cause
+[0;39mjava.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy88.getCurrentBalance(Unknown Source)
+	at com.hercules.service.GatewayServiceFeign.getCurrentBalanceA(GatewayServiceFeign.java:21)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[34m2022-04-07 21:54:10 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T18:54:10.536571Z
+[0;39m[34m2022-04-07 21:54:10 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=25
+[0;39m[34m2022-04-07 21:57:45 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-07 21:57:45 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88900 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:57:45 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:57:46 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=cb6a2246-19ca-3c21-b25f-e73f6c3fccce
+[0;39m[34m2022-04-07 21:57:46 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-07 21:57:46 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 21:57:46 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-07 21:57:46 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-07 21:57:46 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-07 21:57:46 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 885 ms
+[0;39m[34m2022-04-07 21:57:48 [INFO ] o.s.c.c.util.InetUtils    | Cannot determine local hostname
+[0;39m[34m2022-04-07 21:57:48 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-07 21:57:48 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 21:57:48 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-07 21:57:49 [INFO ] o.s.c.c.util.InetUtils    | Cannot determine local hostname
+[0;39m[34m2022-04-07 21:57:49 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 4.945 seconds (JVM running for 5.65)
+[0;39m[34m2022-04-07 21:57:49 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:57:49 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:57:49 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 21:58:16 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T18:58:16.023744Z
+[0;39m[34m2022-04-07 21:58:17 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1030
+[0;39m[1;31m2022-04-07 21:58:17 [ERROR] [.[.[.[dispatcherServlet] | Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.RetryableException: Read timed out executing GET http://localhost:8081/balance] with root cause
+[0;39mjava.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy88.getCurrentBalance(Unknown Source)
+	at com.hercules.service.GatewayServiceFeign.getCurrentBalanceA(GatewayServiceFeign.java:21)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[34m2022-04-07 21:58:17 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T18:58:17.075303Z
+[0;39m[34m2022-04-07 21:58:17 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=24
+[0;39m[34m2022-04-07 21:58:45 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 88914 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 21:58:45 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 21:58:49 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 4.88 seconds (JVM running for 5.421)
+[0;39m[34m2022-04-07 21:58:49 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 21:58:49 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 21:58:53 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T18:58:53.010561Z
+[0;39m[34m2022-04-07 21:58:54 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1025
+[0;39m[34m2022-04-07 21:58:54 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T18:58:54.054942Z
+[0;39m[34m2022-04-07 21:58:54 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=24
+[0;39m[34m2022-04-07 22:03:06 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-07 22:03:06 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 89021 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 22:03:06 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 22:03:06 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=cb6a2246-19ca-3c21-b25f-e73f6c3fccce
+[0;39m[34m2022-04-07 22:03:07 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-07 22:03:07 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 22:03:07 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-07 22:03:07 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-07 22:03:07 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-07 22:03:07 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 992 ms
+[0;39m[34m2022-04-07 22:03:07 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-07 22:03:07 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 22:03:07 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-07 22:03:07 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.147 seconds (JVM running for 3.058)
+[0;39m[34m2022-04-07 22:03:08 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 22:03:08 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 22:03:08 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 22:03:11 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T19:03:11.801588Z
+[0;39m[34m2022-04-07 22:03:12 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1031
+[0;39m[1;31m2022-04-07 22:03:12 [ERROR] [.[.[.[dispatcherServlet] | Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is feign.RetryableException: Read timed out executing GET http://localhost:8081/balance] with root cause
+[0;39mjava.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy88.getCurrentBalance(Unknown Source)
+	at com.hercules.service.GatewayServiceFeign.getCurrentBalanceA(GatewayServiceFeign.java:20)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[34m2022-04-07 22:03:12 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Start Time=2022-04-07T19:03:12.851541Z
+[0;39m[34m2022-04-07 22:03:12 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/error:: Time Taken=22
+[0;39m[34m2022-04-07 22:05:41 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-07 22:05:41 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 89060 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 22:05:41 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 22:05:42 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=ed748f2b-a400-36ea-a5b4-5a31dd92c4e7
+[0;39m[34m2022-04-07 22:05:42 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-07 22:05:42 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 22:05:42 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-07 22:05:42 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-07 22:05:42 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-07 22:05:42 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 990 ms
+[0;39m[34m2022-04-07 22:05:43 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-07 22:05:43 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 22:05:43 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-07 22:05:43 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.08 seconds (JVM running for 2.58)
+[0;39m[34m2022-04-07 22:05:43 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 22:05:43 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 22:05:43 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 22:05:47 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T19:05:47.675320Z
+[0;39m[1;31m2022-04-07 22:05:48 [ERROR] c.h.c.ErrorHandler        | Read timed out
+[0;39mjava.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy92.getCurrentBalance(Unknown Source)
+	at com.hercules.service.GatewayServiceFeign.getCurrentBalanceA(GatewayServiceFeign.java:20)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[34m2022-04-07 22:05:48 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1040
+[0;39m[34m2022-04-07 22:06:31 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-07 22:06:31 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 89071 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 22:06:31 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 22:06:32 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=ed748f2b-a400-36ea-a5b4-5a31dd92c4e7
+[0;39m[34m2022-04-07 22:06:32 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-07 22:06:32 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 22:06:32 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-07 22:06:32 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-07 22:06:32 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-07 22:06:32 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 934 ms
+[0;39m[34m2022-04-07 22:06:33 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-07 22:06:33 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 22:06:33 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-07 22:06:33 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.094 seconds (JVM running for 2.935)
+[0;39m[34m2022-04-07 22:06:33 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 22:06:33 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 22:06:33 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 22:06:36 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T19:06:36.443071Z
+[0;39m[1;31m2022-04-07 22:06:37 [ERROR] c.h.c.ErrorHandler        | Read timed out
+[0;39mjava.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy92.getCurrentBalance(Unknown Source)
+	at com.hercules.service.GatewayServiceFeign.getCurrentBalanceA(GatewayServiceFeign.java:20)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[34m2022-04-07 22:06:37 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1044
+[0;39m[34m2022-04-07 22:06:58 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-07 22:06:58 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 89079 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 22:06:58 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 22:06:58 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=ed748f2b-a400-36ea-a5b4-5a31dd92c4e7
+[0;39m[34m2022-04-07 22:06:58 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-07 22:06:58 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 22:06:58 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-07 22:06:58 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-07 22:06:58 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-07 22:06:58 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 875 ms
+[0;39m[34m2022-04-07 22:06:59 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-07 22:06:59 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 22:06:59 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-07 22:06:59 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.915 seconds (JVM running for 2.759)
+[0;39m[34m2022-04-07 22:06:59 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 22:06:59 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 22:06:59 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 22:07:07 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T19:07:07.352858Z
+[0;39m[1;31m2022-04-07 22:07:08 [ERROR] c.h.c.ErrorHandler        | Read timed out
+[0;39mjava.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy92.getCurrentBalance(Unknown Source)
+	at com.hercules.service.GatewayServiceFeign.getCurrentBalanceA(GatewayServiceFeign.java:20)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[34m2022-04-07 22:07:08 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1040
+[0;39m[34m2022-04-07 22:07:38 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-07 22:07:38 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 89089 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-07 22:07:38 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-07 22:07:39 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=ed748f2b-a400-36ea-a5b4-5a31dd92c4e7
+[0;39m[34m2022-04-07 22:07:39 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-07 22:07:39 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 22:07:39 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-07 22:07:39 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-07 22:07:39 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-07 22:07:39 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 885 ms
+[0;39m[34m2022-04-07 22:07:40 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-07 22:07:40 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-07 22:07:40 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-07 22:07:40 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.87 seconds (JVM running for 2.514)
+[0;39m[34m2022-04-07 22:07:40 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 22:07:40 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-07 22:07:40 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-07 22:07:46 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Start Time=2022-04-07T19:07:46.318423Z
+[0;39m[1;31m2022-04-07 22:07:47 [ERROR] c.h.c.ErrorHandler        | Read timed out
+[0;39mjava.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at feign.Client$Default.convertResponse(Client.java:109)
+	at feign.Client$Default.execute(Client.java:105)
+	at feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+	at feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+	at feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+	at com.sun.proxy.$Proxy92.getCurrentBalance(Unknown Source)
+	at com.hercules.service.GatewayServiceFeign.getCurrentBalanceA(GatewayServiceFeign.java:20)
+	at com.hercules.controller.GatewayController.getCurrentBalanceA(GatewayController.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[34m2022-04-07 22:07:47 [INFO ] .CustomRequestInterceptor | Request URL::http://localhost:8080/savings/a/balance:: Time Taken=1042
+[0;39m

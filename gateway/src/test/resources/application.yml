@@ -1,0 +1,12 @@
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 500
+        readTimeout: 500
+
+rest:
+  balance-a:
+    client: localhost:${wiremock.server.port}
+  balance-b:
+    client: localhost:${wiremock.server.port}

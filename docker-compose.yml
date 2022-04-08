@@ -1,0 +1,70 @@
+version: '3.1'
+services:
+  balance-first:
+    image: 'service-balance.jar'
+    networks:
+      - service-network
+    expose:
+      - 8081
+    ports:
+      - "8081:8081"
+    environment:
+      - DATABASE_HOST=dbpostgresql:5432
+      - DATABASE_NAME=balance
+      - DATABASE_USER=postgres
+      - DATABASE_PASSWORD=docker
+    depends_on:
+      - dbpostgresql
+
+
+  balance-second:
+    image: 'service-balance.jar'
+    networks:
+      - service-network
+    expose:
+      - 8082
+    ports:
+      - "8082:8081"
+    environment:
+      - DATABASE_HOST=dbpostgresql:5432
+      - DATABASE_NAME=balance2
+      - DATABASE_USER=postgres
+      - DATABASE_PASSWORD=docker
+    depends_on:
+      - dbpostgresql
+
+
+  dbpostgresql:
+    image: postgres
+    networks:
+      - service-network
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+    environment:
+      - POSTGRES_PASSWORD=docker
+      - POSTGRES_USER=postgres
+      - POSTGRES_DB=balance
+    volumes:
+      - ./init_db:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  gateway:
+    image: 'gateway.jar'
+    networks:
+      - service-network
+    ports:
+      - "8080:8080"
+    environment:
+      - CLIENT1_HOST=balance-first:8081
+      - CLIENT2_HOST=balance-second:8082
+    depends_on:
+      - balance-first
+      - balance-second
+
+networks:
+  service-network:

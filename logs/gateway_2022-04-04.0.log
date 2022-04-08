@@ -1,0 +1,136 @@
+[34m2022-04-04 22:19:04 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-04 22:19:04 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 62898 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-04 22:19:04 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-04 22:19:04 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=d41f59a6-0581-3666-9b8d-00cfd6719a77
+[0;39m[34m2022-04-04 22:19:05 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-04 22:19:05 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-04 22:19:05 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-04 22:19:05 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-04 22:19:05 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-04 22:19:05 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 1027 ms
+[0;39m[34m2022-04-04 22:19:06 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-04 22:19:06 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-04 22:19:06 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-04 22:19:06 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.616 seconds (JVM running for 3.207)
+[0;39m[34m2022-04-04 22:19:06 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-04 22:19:06 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-04 22:19:06 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 2 ms
+[0;39m[34m2022-04-04 22:24:04 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-04 22:24:04 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 62950 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-04 22:24:04 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-04 22:24:05 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=34945b43-a5c1-354d-801d-06b89c57686a
+[0;39m[34m2022-04-04 22:24:05 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-04 22:24:05 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-04 22:24:05 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-04 22:24:05 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-04 22:24:05 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-04 22:24:05 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 868 ms
+[0;39m[34m2022-04-04 22:24:06 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-04 22:24:06 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-04 22:24:06 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-04 22:24:06 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.862 seconds (JVM running for 2.371)
+[0;39m[34m2022-04-04 22:24:06 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-04 22:24:06 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-04 22:24:06 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-04 22:29:13 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-04 22:29:13 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 63006 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-04 22:29:13 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-04 22:29:14 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=e36b5210-aaac-3b6a-84b1-f4957a9c2378
+[0;39m[34m2022-04-04 22:29:14 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-04 22:29:14 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-04 22:29:14 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-04 22:29:14 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-04 22:29:14 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-04 22:29:14 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 926 ms
+[0;39m[39m2022-04-04 22:29:14 [DEBUG] mmonsRequestLoggingFilter | Filter 'logFilter' configured for use
+[0;39m[34m2022-04-04 22:29:15 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-04 22:29:15 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-04 22:29:15 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-04 22:29:15 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 1.914 seconds (JVM running for 2.42)
+[0;39m[34m2022-04-04 22:29:15 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-04 22:29:15 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-04 22:29:15 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[39m2022-04-04 22:29:25 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:29:25 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[34m2022-04-04 22:29:57 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-04 22:29:57 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 63021 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-04 22:29:57 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-04 22:29:57 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=e36b5210-aaac-3b6a-84b1-f4957a9c2378
+[0;39m[34m2022-04-04 22:29:58 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-04 22:29:58 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-04 22:29:58 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-04 22:29:58 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-04 22:29:58 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-04 22:29:58 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 939 ms
+[0;39m[34m2022-04-04 22:29:58 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-04 22:29:58 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-04 22:29:58 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-04 22:29:58 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.099 seconds (JVM running for 2.671)
+[0;39m[34m2022-04-04 22:29:59 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-04 22:29:59 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-04 22:29:59 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 1 ms
+[0;39m[34m2022-04-04 22:30:49 [INFO ] o.h.v.i.util.Version      | HV000001: Hibernate Validator 6.2.3.Final
+[0;39m[34m2022-04-04 22:30:49 [INFO ] c.h.GatewayApplication    | Starting GatewayApplication using Java 11.0.12 on C02CL4XPMD6R.local with PID 63038 (/Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway/gateway/target/classes started by pavel.mmikhalev in /Users/pavel.mmikhalev/IdeaProjects/spring-api-gateway)
+[0;39m[34m2022-04-04 22:30:49 [INFO ] c.h.GatewayApplication    | No active profile set, falling back to 1 default profile: "default"
+[0;39m[34m2022-04-04 22:30:49 [INFO ] o.s.c.c.s.GenericScope    | BeanFactory id=e36b5210-aaac-3b6a-84b1-f4957a9c2378
+[0;39m[34m2022-04-04 22:30:49 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat initialized with port(s): 8080 (http)
+[0;39m[34m2022-04-04 22:30:49 [INFO ] o.a.c.h.Http11NioProtocol | Initializing ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-04 22:30:49 [INFO ] o.a.c.c.StandardService   | Starting service [Tomcat]
+[0;39m[34m2022-04-04 22:30:49 [INFO ] o.a.c.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.60]
+[0;39m[34m2022-04-04 22:30:50 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring embedded WebApplicationContext
+[0;39m[34m2022-04-04 22:30:50 [INFO ] bServerApplicationContext | Root WebApplicationContext: initialization completed in 1039 ms
+[0;39m[39m2022-04-04 22:30:50 [DEBUG] mmonsRequestLoggingFilter | Filter 'logFilter' configured for use
+[0;39m[34m2022-04-04 22:30:50 [INFO ] e.w.EndpointLinksResolver | Exposing 2 endpoint(s) beneath base path '/actuator'
+[0;39m[34m2022-04-04 22:30:50 [INFO ] o.a.c.h.Http11NioProtocol | Starting ProtocolHandler ["http-nio-8080"]
+[0;39m[34m2022-04-04 22:30:50 [INFO ] s.b.w.e.t.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path ''
+[0;39m[34m2022-04-04 22:30:50 [INFO ] c.h.GatewayApplication    | Started GatewayApplication in 2.267 seconds (JVM running for 3.052)
+[0;39m[34m2022-04-04 22:30:51 [INFO ] o.a.c.c.C.[.[.[/]         | Initializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m[34m2022-04-04 22:30:51 [INFO ] o.s.w.s.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+[0;39m[34m2022-04-04 22:30:51 [INFO ] o.s.w.s.DispatcherServlet | Completed initialization in 2 ms
+[0;39m[39m2022-04-04 22:31:07 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:07 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:25 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:25 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:26 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:26 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:26 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:26 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:26 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:26 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:26 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:26 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:26 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:26 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:27 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:28 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:29 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:29 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:29 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:29 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:29 [DEBUG] mmonsRequestLoggingFilter | Before request [GET /savings/a/balance]
+[0;39m[39m2022-04-04 22:31:29 [DEBUG] mmonsRequestLoggingFilter | REQUEST DATA : GET /savings/a/balance]
+[0;39m

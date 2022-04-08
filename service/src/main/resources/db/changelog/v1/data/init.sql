@@ -1,0 +1,6 @@
+INSERT INTO BALANCE(AMOUNT, NAME)
+VALUES(600.34, 'Basic account' );
+
+
+
+
